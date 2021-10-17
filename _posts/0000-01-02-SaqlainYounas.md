@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Text Changed as Recommended
 Use the left arrow to go back!
